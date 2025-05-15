@@ -1,0 +1,1520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nluan\\source\\repos\\BaiTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|c:\\users\\nluan\\source\\repos\\baitap\\baitap\\danhmuc\\fdanhmuchanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmuchanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\xuatkho\\fdachsachxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\xuatkho\\fdachsachxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\xuatkho\\fdachsachxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\xuatkho\\fdachsachxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\trang ch\u1EE7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\trang ch\u1EE7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\nh\u1EADp kho\\ftaonhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\nh\u1EADp kho\\ftaonhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_quanlykho\\chitietxuatkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_quanlykho\\chitietxuatkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_quanlykho\\xuatkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_quanlykho\\xuatkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\trang ch\u1EE7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\trang ch\u1EE7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\h\u1EC7 th\u1ED1ng\\fquanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\h\u1EC7 th\u1ED1ng\\fquanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmucloaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmucloaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\tonkho\\tonkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\tonkho\\tonkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\nh\u1EADp kho\\ftaonhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\nh\u1EADp kho\\ftaonhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\nhapxuatton\\nhapxuattondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\nhapxuatton\\nhapxuattondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\nhapkho\\nhapkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\nhapkho\\nhapkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_quanlykho\\nhapkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_quanlykho\\nhapkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\nh\u1EADp kho\\fdanhsachnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\nh\u1EADp kho\\fdanhsachnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_quanlykho\\nhapkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_quanlykho\\nhapkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_quanlykho\\tonkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_quanlykho\\tonkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_tonghop\\baocaonxtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_tonghop\\baocaonxtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\kho\\khodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\kho\\khodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\loaihang\\loaihangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\loaihang\\loaihangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\loaihang\\nhomhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\loaihang\\nhomhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_quanlykho\\tonkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_quanlykho\\tonkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_dangnhapdangky\\vaitrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_dangnhapdangky\\vaitrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\nh\u1EADp kho\\fdanhsachnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\nh\u1EADp kho\\fdanhsachnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_quanlykho\\chitietnhapkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_quanlykho\\chitietnhapkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\nhapkho\\chitietnhapkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\nhapkho\\chitietnhapkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\dangkydangnhap\\nguoidungdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\dangkydangnhap\\nguoidungdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto basic\\hanghoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto basic\\hanghoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\h\u01B0\u1EDBng d\u1EABn\\flienhehotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\h\u01B0\u1EDBng d\u1EABn\\flienhehotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\\u0111\u0103ng nh\u1EADp\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\\u0111\u0103ng nh\u1EADp\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\\u0111\u0103ng nh\u1EADp\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\\u0111\u0103ng nh\u1EADp\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\\u0111\u0103ng k\u00FD\\fdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\\u0111\u0103ng k\u00FD\\fdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\\u0111\u0103ng k\u00FD\\fdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\\u0111\u0103ng k\u00FD\\fdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\h\u01B0\u1EDBng d\u1EABn\\fhuongdansudung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\h\u01B0\u1EDBng d\u1EABn\\fhuongdansudung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\h\u1EC7 th\u1ED1ng\\fquanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\h\u1EC7 th\u1ED1ng\\fquanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\xuatkho\\ftaophieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\xuatkho\\ftaophieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmuctonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmuctonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\xuatkho\\ftaophieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\xuatkho\\ftaophieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmucloaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmucloaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmuckho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmuckho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmuckho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmuckho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmucnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmucnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmuchanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmuchanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_dangnhapdangky\\nguoidungbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_dangnhapdangky\\nguoidungbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fhanghoa_giaxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fhanghoa_giaxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fhanghoa_giaxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fhanghoa_giaxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmuctonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmuctonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmucnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmucnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\xuatkho\\xuatkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\xuatkho\\xuatkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\xuatkho\\chitietxuatkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\xuatkho\\chitietxuatkhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_quanlykho\\xuatkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_quanlykho\\xuatkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fhanghoa_ncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fhanghoa_ncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fhanghoa_ncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fhanghoa_ncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll basic\\khobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll basic\\khobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_tonghop\\tonkhotonghopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_tonghop\\tonkhotonghopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_dangkydangnhap\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_dangkydangnhap\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_dangkydangnhap\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_dangkydangnhap\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\dangkydangnhap\\vaitrodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\dangkydangnhap\\vaitrodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\h\u01B0\u1EDBng d\u1EABn\\fthongtinphanmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\h\u01B0\u1EDBng d\u1EABn\\fthongtinphanmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\b\u00E1o c\u00E1o\\fbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\b\u00E1o c\u00E1o\\fbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\b\u00E1o c\u00E1o\\fbaocaonhapxuatton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\b\u00E1o c\u00E1o\\fbaocaonhapxuatton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\hanghoa\\hanghoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\hanghoa\\hanghoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll basic\\hanghoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll basic\\hanghoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\b\u00E1o c\u00E1o\\fbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\b\u00E1o c\u00E1o\\fbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\dataset\\datasettonkho.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\dataset\\datasettonkho.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\dataset\\datasettonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\dataset\\datasettonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\dataset\\datasettonkho.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\dataset\\datasettonkho.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\dataset\\datasettonkho.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\dataset\\datasettonkho.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_quanlykho\\chitietxuatkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_quanlykho\\chitietxuatkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_quanlykho\\chitietnhapkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_quanlykho\\chitietnhapkhobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto basic\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto basic\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto basic\\khodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto basic\\khodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_quanlykho\\nhapxuattondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_quanlykho\\nhapxuattondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_trunggian\\hanghoa_giaxuatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_trunggian\\hanghoa_giaxuatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\hanghoa_giaxuat\\hanghoa_giaxuatdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\hanghoa_giaxuat\\hanghoa_giaxuatdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_trunggian\\hanghoa_giaxuatbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_trunggian\\hanghoa_giaxuatbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dal\\entities\\nhacungcap\\nhacungcapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FBA1F6-C0BC-4441-8DA9-9A0C74BB7F47}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\nhacungcap\\nhacungcapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_trunggian\\nhapxuattonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_trunggian\\nhapxuattonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll_trunggian\\hanghoa_nccbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll_trunggian\\hanghoa_nccbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fhanghoa_giaxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fhanghoa_giaxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto_trunggian\\hanghoa_nccdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto_trunggian\\hanghoa_nccdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto basic\\loaihangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto basic\\loaihangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\dto\\dto basic\\nhomhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E278A4-A80D-4087-BBB3-1B0837E2CEBC}|DTO\\DTO.csproj|solutionrelative:dto\\dto basic\\nhomhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\KhoDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\KhoDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\danhmuc\\fdanhmuckho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\danhmuc\\fdanhmuckho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll basic\\loaihangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll basic\\loaihangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\baitap\\trang ch\u1EE7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871AB582-0BEB-46A8-9022-D676D0F66CBA}|BaiTap\\GUI.csproj|solutionrelative:baitap\\trang ch\u1EE7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll basic\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll basic\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|C:\\Users\\nluan\\source\\repos\\BaiTap\\bll\\bll basic\\nhomhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD21572D-FD9A-4F60-B641-9712D4667BBB}|BLL\\BLL.csproj|solutionrelative:bll\\bll basic\\nhomhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\B\u00E1o c\u00E1o\\rptBaoCaoTonKho.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiTap\\B\u00E1o c\u00E1o\\rptBaoCaoTonKho.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 319,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fQuanLyNguoiDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u1EC7 th\u1ED1ng\\fQuanLyNguoiDung.cs",
+              "RelativeDocumentMoniker": "BaiTap\\H\u1EC7 th\u1ED1ng\\fQuanLyNguoiDung.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u1EC7 th\u1ED1ng\\fQuanLyNguoiDung.cs [Design]",
+              "RelativeToolTip": "BaiTap\\H\u1EC7 th\u1ED1ng\\fQuanLyNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:13:04.649Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "fQuanLyNguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u1EC7 th\u1ED1ng\\fQuanLyNguoiDung.cs",
+              "RelativeDocumentMoniker": "BaiTap\\H\u1EC7 th\u1ED1ng\\fQuanLyNguoiDung.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u1EC7 th\u1ED1ng\\fQuanLyNguoiDung.cs",
+              "RelativeToolTip": "BaiTap\\H\u1EC7 th\u1ED1ng\\fQuanLyNguoiDung.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:26:35.098Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fDanhmucHangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucHangHoa.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucHangHoa.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucHangHoa.cs",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucHangHoa.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:05:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "rptBaoCaoTonKho.rpt",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\B\u00E1o c\u00E1o\\rptBaoCaoTonKho.rpt",
+              "RelativeDocumentMoniker": "BaiTap\\B\u00E1o c\u00E1o\\rptBaoCaoTonKho.rpt",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\B\u00E1o c\u00E1o\\rptBaoCaoTonKho.rpt",
+              "RelativeToolTip": "BaiTap\\B\u00E1o c\u00E1o\\rptBaoCaoTonKho.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIeSURBVDhPpZJNSFRRFMd/9973ZnIaswwiWvSFmyFNFyEUTlC4qDYptghaSOAmoY3QojZFVkLuIqZ2FhVCYGOLFhERRBs3MkP0IWmZ5geaOo06M76v28Ia581r1w/O4lzO\u002BZ9z7jnwP2itRamfGEzpUr\u002BczpYGX3yAxGBKu56nXc/T5SQGU/pfBWTgQQim5leYnFv2GcCF0/WBLgMCAFKKgAHce56GslF9Akquu0qKot3xepFC0BqvoTVeQ0tTDVXRcDHHJ/AnHyUlSkqSYoAH0/eJTzWgpMRQEtPwN\u002B3zTKUAMJTg5vwN2ORQKbew7GU5MnGw2FUpxt6OT61C6ONA9fBXj1O/LLpnryKlwciPMZbnsgBknSyNk3UMH/vgExD5vNW2Wlhrfj\u002Be23NrYOnkdEYSj4UZajhDxf4wM\u002BkZvj0Zg0XIDdgAJN\u002BNcq45JgBk5/X\u002B5KXbz7oMN3vlbsd2jsZCvEwVsPofExGVUNCQgULS8W0kwPnLD0Xy7YheyKzos73juvbiqD7U9UUf6K/Tq/k1bdmuth1XW7arn74ZCa6xr6ddh0MmVdEKmmIRtkYNTNPkUf0LLNtFqfXqSglMtfH3gUMqOJCe8KiuCrGr2qBg2TiOWx5WxDdQ36tJ/Xk2zOKqZHPI4/DuDAuLC\u002BzcsY1IZON4AE407hOUC\u002BTzVlvesq9lsrnan0src0Pp8e7hjxOvge99Pe250ti//Aa4Se8VLBKf0wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-28T20:09:44.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "KhoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\KhoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhoDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\KhoDAL.cs",
+              "RelativeToolTip": "DAL\\KhoDAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:44:44.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fTaoNhapKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Nh\u1EADp Kho\\fTaoNhapKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Nh\u1EADp Kho\\fTaoNhapKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Nh\u1EADp Kho\\fTaoNhapKho.cs [Design]",
+              "RelativeToolTip": "BaiTap\\Nh\u1EADp Kho\\fTaoNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:27:03.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Trang ch\u1EE7\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Trang ch\u1EE7\\Form1.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Trang ch\u1EE7\\Form1.cs [Design]",
+              "RelativeToolTip": "BaiTap\\Trang ch\u1EE7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:46:08.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Trang ch\u1EE7\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Trang ch\u1EE7\\Form1.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Trang ch\u1EE7\\Form1.cs",
+              "RelativeToolTip": "BaiTap\\Trang ch\u1EE7\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwE4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:33:44.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XuatKhoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\XuatKhoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_QuanLyKho\\XuatKhoDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\XuatKhoDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_QuanLyKho\\XuatKhoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:20:45.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietXuatKhoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\ChiTietXuatKhoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_QuanLyKho\\ChiTietXuatKhoDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\ChiTietXuatKhoDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_QuanLyKho\\ChiTietXuatKhoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:21:04.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fDachsachXuatKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\XuatKho\\fDachsachXuatKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\XuatKho\\fDachsachXuatKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\XuatKho\\fDachsachXuatKho.cs [Design]",
+              "RelativeToolTip": "BaiTap\\XuatKho\\fDachsachXuatKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:48:05.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fDachsachXuatKho.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\XuatKho\\fDachsachXuatKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\XuatKho\\fDachsachXuatKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\XuatKho\\fDachsachXuatKho.cs",
+              "RelativeToolTip": "BaiTap\\XuatKho\\fDachsachXuatKho.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowBcBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:33:41.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fDanhmucLoaiHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucLoaiHang.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucLoaiHang.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucLoaiHang.cs [Design]",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucLoaiHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T04:18:46.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhapXuatTonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\NhapXuatTon\\NhapXuatTonDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\NhapXuatTon\\NhapXuatTonDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\NhapXuatTon\\NhapXuatTonDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\NhapXuatTon\\NhapXuatTonDAL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:12:12.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fTaoNhapKho.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Nh\u1EADp Kho\\fTaoNhapKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Nh\u1EADp Kho\\fTaoNhapKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Nh\u1EADp Kho\\fTaoNhapKho.cs",
+              "RelativeToolTip": "BaiTap\\Nh\u1EADp Kho\\fTaoNhapKho.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAuwO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:27:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fDanhsachNhapKho.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Nh\u1EADp Kho\\fDanhsachNhapKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Nh\u1EADp Kho\\fDanhsachNhapKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Nh\u1EADp Kho\\fDanhsachNhapKho.cs",
+              "RelativeToolTip": "BaiTap\\Nh\u1EADp Kho\\fDanhsachNhapKho.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAlwKgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:06:32.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NhapKhoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\NhapKhoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_QuanLyKho\\NhapKhoBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\NhapKhoBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_QuanLyKho\\NhapKhoBLL.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAD4v4MAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:19:44.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhapKhoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\NhapKho\\NhapKhoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\NhapKho\\NhapKhoDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\NhapKho\\NhapKhoDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\NhapKho\\NhapKhoDAL.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwLUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:39:53.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TonKhoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\TonKho\\TonKhoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\TonKho\\TonKhoDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\TonKho\\TonKhoDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\TonKho\\TonKhoDAL.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAmwH4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:47:00.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TonKhoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\TonKhoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_QuanLyKho\\TonKhoDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\TonKhoDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_QuanLyKho\\TonKhoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:19:54.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaoCaoNXTDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_TongHop\\BaoCaoNXTDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_TongHop\\BaoCaoNXTDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_TongHop\\BaoCaoNXTDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_TongHop\\BaoCaoNXTDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:23:29.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KhoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\Kho\\KhoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Kho\\KhoDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\Kho\\KhoDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\Kho\\KhoDAL.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAADwv7YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:17:54.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoaiHangDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\LoaiHang\\LoaiHangDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\LoaiHang\\LoaiHangDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\LoaiHang\\LoaiHangDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\LoaiHang\\LoaiHangDAL.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv5IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:19:17.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NhomHangDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\LoaiHang\\NhomHangDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\LoaiHang\\NhomHangDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\LoaiHang\\NhomHangDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\LoaiHang\\NhomHangDAL.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAIA5wGEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:27:59.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TonKhoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\TonKhoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_QuanLyKho\\TonKhoBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\TonKhoBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_QuanLyKho\\TonKhoBLL.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwLUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:54:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VaiTroBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_DangNhapDangKy\\VaiTroBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_DangNhapDangKy\\VaiTroBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_DangNhapDangKy\\VaiTroBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_DangNhapDangKy\\VaiTroBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:48:30.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NhapKhoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\NhapKhoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_QuanLyKho\\NhapKhoDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\NhapKhoDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_QuanLyKho\\NhapKhoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:20:11.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fDanhsachNhapKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Nh\u1EADp Kho\\fDanhsachNhapKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Nh\u1EADp Kho\\fDanhsachNhapKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Nh\u1EADp Kho\\fDanhsachNhapKho.cs [Design]",
+              "RelativeToolTip": "BaiTap\\Nh\u1EADp Kho\\fDanhsachNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:02:20.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChiTietNhapKhoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\NhapKho\\ChiTietNhapKhoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\NhapKho\\ChiTietNhapKhoDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\NhapKho\\ChiTietNhapKhoDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\NhapKho\\ChiTietNhapKhoDAL.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:18:07.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HangHoaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\HangHoaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO Basic\\HangHoaDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\HangHoaDTO.cs",
+              "RelativeToolTip": "DTO\\DTO Basic\\HangHoaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:32:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChiTietNhapKhoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\ChiTietNhapKhoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_QuanLyKho\\ChiTietNhapKhoDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\ChiTietNhapKhoDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_QuanLyKho\\ChiTietNhapKhoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:20:27.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NguoiDungDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\DangkyDangnhap\\NguoiDungDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\DangkyDangnhap\\NguoiDungDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\DangkyDangnhap\\NguoiDungDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\DangkyDangnhap\\NguoiDungDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:09:10.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fLienHeHoTro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fLienHeHoTro.cs",
+              "RelativeDocumentMoniker": "BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fLienHeHoTro.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fLienHeHoTro.cs [Design]",
+              "RelativeToolTip": "BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fLienHeHoTro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:06:14.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\\u0110\u0103ng nh\u1EADp\\fDangNhap.cs",
+              "RelativeDocumentMoniker": "BaiTap\\\u0110\u0103ng nh\u1EADp\\fDangNhap.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\\u0110\u0103ng nh\u1EADp\\fDangNhap.cs",
+              "RelativeToolTip": "BaiTap\\\u0110\u0103ng nh\u1EADp\\fDangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:26:32.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\\u0110\u0103ng nh\u1EADp\\fDangNhap.cs",
+              "RelativeDocumentMoniker": "BaiTap\\\u0110\u0103ng nh\u1EADp\\fDangNhap.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\\u0110\u0103ng nh\u1EADp\\fDangNhap.cs [Design]",
+              "RelativeToolTip": "BaiTap\\\u0110\u0103ng nh\u1EADp\\fDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:04:02.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "fDangKy.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\\u0110\u0103ng k\u00FD\\fDangKy.cs",
+              "RelativeDocumentMoniker": "BaiTap\\\u0110\u0103ng k\u00FD\\fDangKy.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\\u0110\u0103ng k\u00FD\\fDangKy.cs",
+              "RelativeToolTip": "BaiTap\\\u0110\u0103ng k\u00FD\\fDangKy.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:57:12.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "fDangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\\u0110\u0103ng k\u00FD\\fDangKy.cs",
+              "RelativeDocumentMoniker": "BaiTap\\\u0110\u0103ng k\u00FD\\fDangKy.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\\u0110\u0103ng k\u00FD\\fDangKy.cs [Design]",
+              "RelativeToolTip": "BaiTap\\\u0110\u0103ng k\u00FD\\fDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:44:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "fHuongDanSuDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fHuongDanSuDung.cs",
+              "RelativeDocumentMoniker": "BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fHuongDanSuDung.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fHuongDanSuDung.cs [Design]",
+              "RelativeToolTip": "BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fHuongDanSuDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:42:59.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Helpers\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Helpers\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Helpers\\DatabaseHelper.cs",
+              "RelativeToolTip": "DAL\\Helpers\\DatabaseHelper.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:30:59.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "fTaoPhieuXuat.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\XuatKho\\fTaoPhieuXuat.cs",
+              "RelativeDocumentMoniker": "BaiTap\\XuatKho\\fTaoPhieuXuat.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\XuatKho\\fTaoPhieuXuat.cs",
+              "RelativeToolTip": "BaiTap\\XuatKho\\fTaoPhieuXuat.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwHAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:16:29.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "fTaoPhieuXuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\XuatKho\\fTaoPhieuXuat.cs",
+              "RelativeDocumentMoniker": "BaiTap\\XuatKho\\fTaoPhieuXuat.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\XuatKho\\fTaoPhieuXuat.cs [Design]",
+              "RelativeToolTip": "BaiTap\\XuatKho\\fTaoPhieuXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:08:30.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "fDanhmucTonKho.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucTonKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucTonKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucTonKho.cs",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucTonKho.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAawNUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:08:41.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Program.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Program.cs",
+              "RelativeToolTip": "BaiTap\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:59:11.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "fDanhmucNhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucNhaCungCap.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucNhaCungCap.cs",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucNhaCungCap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T01:27:57.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "fDanhmucKho.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucKho.cs",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucKho.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:47:31.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "fDanhmucKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucKho.cs [Design]",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:05:01.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "fDanhmucLoaiHang.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucLoaiHang.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucLoaiHang.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucLoaiHang.cs",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucLoaiHang.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwMIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:43:37.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "fDanhmucHangHoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucHangHoa.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucHangHoa.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucHangHoa.cs [Design]",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T02:35:37.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NguoiDungBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_DangNhapDangKy\\NguoiDungBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_DangNhapDangKy\\NguoiDungBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_DangNhapDangKy\\NguoiDungBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_DangNhapDangKy\\NguoiDungBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:05:23.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "fHangHoa_GiaXuat.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_GiaXuat.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fHangHoa_GiaXuat.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_GiaXuat.cs",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fHangHoa_GiaXuat.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:32:25.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "fHangHoa_GiaXuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_GiaXuat.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fHangHoa_GiaXuat.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_GiaXuat.cs [Design]",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fHangHoa_GiaXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:28:47.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "fDanhmucTonKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucTonKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucTonKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucTonKho.cs [Design]",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucTonKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:01:44.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "fDanhmucNhaCungCap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucNhaCungCap.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucNhaCungCap.cs [Design]",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T01:26:03.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ChiTietXuatKhoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\XuatKho\\ChiTietXuatKhoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\XuatKho\\ChiTietXuatKhoDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\XuatKho\\ChiTietXuatKhoDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\XuatKho\\ChiTietXuatKhoDAL.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAowIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T05:00:16.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "XuatKhoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\XuatKho\\XuatKhoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\XuatKho\\XuatKhoDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\XuatKho\\XuatKhoDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\XuatKho\\XuatKhoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T05:00:27.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "XuatKhoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\XuatKhoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_QuanLyKho\\XuatKhoBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\XuatKhoBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_QuanLyKho\\XuatKhoBLL.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwHAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:23:17.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "fHangHoa_NCC.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_NCC.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fHangHoa_NCC.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_NCC.cs",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fHangHoa_NCC.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAUwJwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:29:50.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "fHangHoa_NCC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_NCC.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fHangHoa_NCC.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_NCC.cs [Design]",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fHangHoa_NCC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:16:11.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "KhoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\KhoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL Basic\\KhoBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\KhoBLL.cs",
+              "RelativeToolTip": "BLL\\BLL Basic\\KhoBLL.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv2wAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:29:11.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TonKhoTongHopDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_TongHop\\TonKhoTongHopDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_TongHop\\TonKhoTongHopDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_TongHop\\TonKhoTongHopDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_TongHop\\TonKhoTongHopDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:23:09.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_DangkyDangnhap\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_DangkyDangnhap\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_DangkyDangnhap\\NguoiDung.cs",
+              "RelativeToolTip": "DTO\\DTO_DangkyDangnhap\\NguoiDung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:59:01.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "VaiTro.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_DangkyDangnhap\\VaiTro.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_DangkyDangnhap\\VaiTro.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_DangkyDangnhap\\VaiTro.cs",
+              "RelativeToolTip": "DTO\\DTO_DangkyDangnhap\\VaiTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:59:20.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "VaiTroDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\DangkyDangnhap\\VaiTroDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\DangkyDangnhap\\VaiTroDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\DangkyDangnhap\\VaiTroDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\DangkyDangnhap\\VaiTroDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:47:55.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "fThongTinPhanMem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fThongTinPhanMem.cs",
+              "RelativeDocumentMoniker": "BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fThongTinPhanMem.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fThongTinPhanMem.cs [Design]",
+              "RelativeToolTip": "BaiTap\\H\u01B0\u1EDBng d\u1EABn\\fThongTinPhanMem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:04:59.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "fBaoCaoTonKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoTonKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoTonKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoTonKho.cs [Design]",
+              "RelativeToolTip": "BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoTonKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:28:18.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "fBaoCaoNhapXuatTon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoNhapXuatTon.cs",
+              "RelativeDocumentMoniker": "BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoNhapXuatTon.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoNhapXuatTon.cs [Design]",
+              "RelativeToolTip": "BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoNhapXuatTon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:25:57.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HangHoaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\HangHoa\\HangHoaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\HangHoa\\HangHoaDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\HangHoa\\HangHoaDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\HangHoa\\HangHoaDAL.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwJ4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:40:34.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HangHoaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\HangHoaBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL Basic\\HangHoaBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\HangHoaBLL.cs",
+              "RelativeToolTip": "BLL\\BLL Basic\\HangHoaBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T01:10:46.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "fBaoCaoTonKho.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoTonKho.cs",
+              "RelativeDocumentMoniker": "BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoTonKho.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoTonKho.cs",
+              "RelativeToolTip": "BaiTap\\B\u00E1o c\u00E1o\\fBaoCaoTonKho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:29:53.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DataSetTonKho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Dataset\\DataSetTonKho.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Dataset\\DataSetTonKho.Designer.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Dataset\\DataSetTonKho.Designer.cs",
+              "RelativeToolTip": "BaiTap\\Dataset\\DataSetTonKho.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:59:11.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DataSetTonKho.xsc",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Dataset\\DataSetTonKho.xsc",
+              "RelativeDocumentMoniker": "BaiTap\\Dataset\\DataSetTonKho.xsc",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Dataset\\DataSetTonKho.xsc",
+              "RelativeToolTip": "BaiTap\\Dataset\\DataSetTonKho.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-04-28T19:59:06.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DataSetTonKho.xss",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Dataset\\DataSetTonKho.xss",
+              "RelativeDocumentMoniker": "BaiTap\\Dataset\\DataSetTonKho.xss",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Dataset\\DataSetTonKho.xss",
+              "RelativeToolTip": "BaiTap\\Dataset\\DataSetTonKho.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEVSURBVDhPlZI9coMwEIUfdIgm3CDmBmliaKl1Aah8hJwkTutU6biA7sA4jW\u002BA01PgzITVUG2KIGKJn8TfzI5Gb6UdvdUCK2itd0R0IiJ24qS13oGZPfeSgYj2dV0/VVWFsiytXJ7nSNMUcRy/WAlD27Z3TdPw4fDKl/ZzNvbPeyYi9t3L13Rd50ojX0NuzQJLKbG53\u002BBxu7Vy78cjzh9nKKXsAkTE13sAkFK60ohSChMLUsox/sOkwK1MCiilrPUvfAze5/xjKDRXLAxDwPyC6fgSSimrJ0mSoCiK30EiIs6yzB1XXtF/RhmAP/d0IcTsfPR9HwkhPCHEQxAEbzA9MM9zbbh6FEUX68DcL9yKt2RhSXe1b4wV0dNGMLxjAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-28T19:59:09.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DataSetTonKho.xsd",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Dataset\\DataSetTonKho.xsd",
+              "RelativeDocumentMoniker": "BaiTap\\Dataset\\DataSetTonKho.xsd",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Dataset\\DataSetTonKho.xsd",
+              "RelativeToolTip": "BaiTap\\Dataset\\DataSetTonKho.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-04-28T19:58:32.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ChiTietXuatKhoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\ChiTietXuatKhoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_QuanLyKho\\ChiTietXuatKhoBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\ChiTietXuatKhoBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_QuanLyKho\\ChiTietXuatKhoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:19:10.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ChiTietNhapKhoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\ChiTietNhapKhoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_QuanLyKho\\ChiTietNhapKhoBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_QuanLyKho\\ChiTietNhapKhoBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_QuanLyKho\\ChiTietNhapKhoBLL.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:22:00.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "NhaCungCapDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\NhaCungCapDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO Basic\\NhaCungCapDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\NhaCungCapDTO.cs",
+              "RelativeToolTip": "DTO\\DTO Basic\\NhaCungCapDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T02:04:40.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "KhoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\KhoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO Basic\\KhoDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\KhoDTO.cs",
+              "RelativeToolTip": "DTO\\DTO Basic\\KhoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:18:35.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "NhapXuatTonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\NhapXuatTonDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_QuanLyKho\\NhapXuatTonDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_QuanLyKho\\NhapXuatTonDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_QuanLyKho\\NhapXuatTonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:49:05.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "HangHoa_GIaXuatDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_TrungGian\\HangHoa_GIaXuatDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_TrungGian\\HangHoa_GIaXuatDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_TrungGian\\HangHoa_GIaXuatDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_TrungGian\\HangHoa_GIaXuatDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:05:12.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "HangHoa_GiaXuatDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\HangHoa_GiaXuat\\HangHoa_GiaXuatDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\HangHoa_GiaXuat\\HangHoa_GiaXuatDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\HangHoa_GiaXuat\\HangHoa_GiaXuatDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\HangHoa_GiaXuat\\HangHoa_GiaXuatDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:12:32.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "HangHoa_GiaXuatBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_TrungGian\\HangHoa_GiaXuatBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_TrungGian\\HangHoa_GiaXuatBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_TrungGian\\HangHoa_GiaXuatBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_TrungGian\\HangHoa_GiaXuatBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:12:45.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "NhaCungCapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\NhaCungCap\\NhaCungCapDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\NhaCungCap\\NhaCungCapDAL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DAL\\Entities\\NhaCungCap\\NhaCungCapDAL.cs",
+              "RelativeToolTip": "DAL\\Entities\\NhaCungCap\\NhaCungCapDAL.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv6QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:33:28.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "NhapXuatTonBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_TrungGian\\NhapXuatTonBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_TrungGian\\NhapXuatTonBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_TrungGian\\NhapXuatTonBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_TrungGian\\NhapXuatTonBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:12:24.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "HangHoa_NCCBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_TrungGian\\HangHoa_NCCBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_TrungGian\\HangHoa_NCCBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL_TrungGian\\HangHoa_NCCBLL.cs",
+              "RelativeToolTip": "BLL\\BLL_TrungGian\\HangHoa_NCCBLL.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T04:22:04.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "fHangHoa_GiaXuat.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_GiaXuat.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fHangHoa_GiaXuat.Designer.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fHangHoa_GiaXuat.Designer.cs",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fHangHoa_GiaXuat.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwM8BAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:22:53.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "HangHoa_NCCDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_TrungGian\\HangHoa_NCCDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_TrungGian\\HangHoa_NCCDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO_TrungGian\\HangHoa_NCCDTO.cs",
+              "RelativeToolTip": "DTO\\DTO_TrungGian\\HangHoa_NCCDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T04:14:06.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "LoaiHangDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\LoaiHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO Basic\\LoaiHangDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\LoaiHangDTO.cs",
+              "RelativeToolTip": "DTO\\DTO Basic\\LoaiHangDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:17:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "fDanhmucKho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucKho.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTap\\DanhMuc\\fDanhmucKho.Designer.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\DanhMuc\\fDanhmucKho.Designer.cs",
+              "RelativeToolTip": "BaiTap\\DanhMuc\\fDanhmucKho.Designer.cs",
+              "ViewState": "AgIAAOcBAAAAAAAAAAAEwDYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:55:30.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "NhomHangDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\NhomHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO Basic\\NhomHangDTO.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\DTO\\DTO Basic\\NhomHangDTO.cs",
+              "RelativeToolTip": "DTO\\DTO Basic\\NhomHangDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:22:35.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Trang ch\u1EE7\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Trang ch\u1EE7\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BaiTap\\Trang ch\u1EE7\\Form1.Designer.cs",
+              "RelativeToolTip": "BaiTap\\Trang ch\u1EE7\\Form1.Designer.cs",
+              "ViewState": "AgIAAAMDAAAAAAAAAADgvxYDAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:39:29.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "LoaiHangBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\LoaiHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL Basic\\LoaiHangBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\LoaiHangBLL.cs",
+              "RelativeToolTip": "BLL\\BLL Basic\\LoaiHangBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:16:57.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "NhaCungCapBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\NhaCungCapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL Basic\\NhaCungCapBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\NhaCungCapBLL.cs",
+              "RelativeToolTip": "BLL\\BLL Basic\\NhaCungCapBLL.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv4EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:26:13.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "NhomHangBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\NhomHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL Basic\\NhomHangBLL.cs",
+              "ToolTip": "C:\\Users\\nluan\\source\\repos\\BaiTap\\BLL\\BLL Basic\\NhomHangBLL.cs",
+              "RelativeToolTip": "BLL\\BLL Basic\\NhomHangBLL.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv38AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:04:48.871Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 360,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
